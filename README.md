@@ -1,3 +1,12 @@
+## 구글맵 지도주소 : map.google.co.kr
+## 카카오 접속주소 : https://vaccine-map.kakao.com/map2?v=1
+## 파이썬 다운로드 : https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
+## pip 설치 명령어 : python get-pip.py
+## release EXE 생성 : pip install pyinstaller -> 경로 접속 후 pyinstaller vaccine-run-kakao.py
+
+
+
+
 # korea-covid-19-remaining-vaccine-macro [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSJang1%2Fkorea-covid-19-remaining-vaccine-macro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README_HITS&edge_flat=false)](https://hits.seeyoufarm.com) [![Python package](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro/actions/workflows/package.yml/badge.svg)](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro/actions/workflows/package.yml) [![CodeQL](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro/actions/workflows/codeql-analysis.yml)
 잔여백신 지도 API로 남은 백신 수를 확인하고, 잔여백신이 있는 경우 잔여백신 예약 페이지로 이동합니다.
 
