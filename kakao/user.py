@@ -29,7 +29,7 @@ def check_user_info_loaded(jar):
     else:
         user_info = user_info_json.get("user")
         if user_info['status'] == "NORMAL":
-            print(f"{user_info['name']}님 안녕하세요.")
+            print(f"{user_info['name']}님 안녕하세요. :)")
         elif user_info['status'] == "UNKNOWN":
             print("상태를 알 수 없는 사용자입니다. 1339 또는 보건소에 문의해주세요.")
             close(success=None)
