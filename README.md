@@ -1,3 +1,6 @@
+### 다운로드 : https://github.com/mdongbin/dongbindongbin9595/releases/tag/1
+
+
 ## 구글맵 지도주소 : map.google.co.kr
 ## 카카오 접속주소 : https://vaccine-map.kakao.com/map2?v=1
 ## 파이썬 다운로드 : https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
